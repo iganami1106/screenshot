@@ -1,0 +1,6 @@
+imagehash
+pyautogui
+img2pdf
+natsort
+imgsim
+PIL

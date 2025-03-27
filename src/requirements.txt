@@ -1,0 +1,11 @@
+imagehash
+opencv-python
+opencv-contrib-python
+pyautogui
+img2pdf
+natsort
+googletrans==4.0.0-rc1
+imgsim
+torchvision
+
+PIL
