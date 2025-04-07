@@ -12,6 +12,7 @@ import shutil
 x1 ,x2, y1, y2 = 0,0,0,0
 interval = 5
 
+# スタート時の処理
 def mouse():
     global x1,x2,y1,y2
     print("左上端をクリックしてください")

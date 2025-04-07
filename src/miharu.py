@@ -32,16 +32,8 @@ from natsort import natsorted
 
 
 # global 変数
-
 answer_ja = ''
 
-
-
-
-
-    
-    
-        #s = input("sと入力してください:")
 x1 ,x2, y1, y2 = 0,0,0,0
 interval = 2.3
 pdf_img = []
@@ -227,9 +219,6 @@ def tab1_main(tab1):
     
     start_button = tk.Button(tab1, text="出力",relief="solid", bg="white", fg = "#2f4f4f",bd=1, command = png_to_pdf)
     start_button.place(x = 160, y = 320, width = 120, height = 60)
-    
-    
-    
-    
+   
     
     return 0

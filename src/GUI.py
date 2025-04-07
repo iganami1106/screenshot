@@ -1,6 +1,5 @@
 #タブを3つ持つGUIウィンドウを作成する。
 
-#import
 import tkinter as tk
 import tkinter.ttk as ttk
 
