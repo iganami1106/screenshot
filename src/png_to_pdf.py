@@ -5,7 +5,7 @@ import img2pdf
 from natsort import natsorted
 from PIL import Image
 
-
+# スクショをpdfへ変換
 def png_to_pdf(a):
   outputpath= "file.pdf"
   layout = img2pdf.get_layout_fun((img2pdf.mm_to_pt(257), img2pdf.mm_to_pt(182)))

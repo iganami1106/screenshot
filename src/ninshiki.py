@@ -1,7 +1,7 @@
 
 import imgsim
 import cv2
-
+# 類似度判定
 def judge(path1, path2):
     img0 = cv2.imread(path1)
     img1 = cv2.imread(path2)
