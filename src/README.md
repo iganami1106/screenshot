@@ -1,4 +1,4 @@
-# autoscreenshot
+# screenshot
 
 ## 概要
 授業動画をPDFに変換してくれます（なるべく重複がないように）
